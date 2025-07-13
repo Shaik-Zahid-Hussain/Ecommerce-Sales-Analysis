@@ -122,7 +122,3 @@ Edit
 
 ---
 
-Would you like:
-- A matching sample **notebook or script** to go with this?
-- A `requirements.txt` file?
-- Or a sample `ecommerce_data.csv` template to test with?
